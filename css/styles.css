@@ -1,0 +1,32 @@
+.intro{
+    text-align:center;
+    background-color: antiquewhite;
+}
+/*Add a light blue color to the top navigation*/
+.topnav{
+    background-color: indigo;
+/*Hexadecimal value*/
+}
+/*Style the links inside the navigation bar*/
+.topnav a{
+    float: inline-start;
+    display: inline;
+    color: aqua;
+    text-align: center;
+    text-decoration: burlywood;
+    font-size: medium;
+}
+/*Hide the link that should open and close the top navigation on small screens*/
+.topnav.icon{
+    display: none;
+}
+.container1{
+    text-align: center;
+    background-size: auto;
+}
+.output{
+    text-align: right;
+    color: cadetblue;
+    font-style: italic;
+    background-color: cornflowerblue;
+}
