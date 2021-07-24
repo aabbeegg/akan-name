@@ -56,10 +56,10 @@ let day = Math.round (Dayoftheweek);
 
 if (Inputgender==="Female") {
     akannames = femalenames[day]
-    document.getElementById("output").innerHTML = "You Akan name"+akanName"";
+    document.getElementById("output").innerHTML = "You Akan name"+akanName;
 }
 else if(Input gender==="Male") {
     akannames = malesnames[day]
-    document.getElememtById("output").innerHTML = "You Akan name"+akanName"";
+    document.getElememtById("output").innerHTML = "You Akan name"+akanName;
 }
 
